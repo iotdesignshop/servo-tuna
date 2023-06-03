@@ -18,5 +18,6 @@ Once your environment is ready and packages downloaded, we have provided a scrip
 To run our script:
 
 ```
-sudo source install-blinka.sh
+chmod +x install-blinka.sh
+sudo ./install-blinka.sh
 ```
