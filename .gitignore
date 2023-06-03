@@ -1,2 +1,4 @@
 *_venv/**
-
+.DS_Store
+._.DS_Store
+raspi-blinka.py
