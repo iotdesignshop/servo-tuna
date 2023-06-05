@@ -1,3 +1,6 @@
 Kivy>=2.2.0
 adafruit-python-shell
+RPi.GPIO
+adafruit-blinka
+
 
